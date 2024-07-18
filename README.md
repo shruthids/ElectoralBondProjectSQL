@@ -133,8 +133,8 @@ EDA SQL electoral bonddata
 ├───FinalData
 │       bankdata.tsv
 │       bonddata.csv
-│       total_allDonorData.csv
-│       total_allReciverData.csv
+│       DonorData.csv
+│       ReciverData.csv
 │
 ├───RawData
 │       Bankcodes.tsv
@@ -147,11 +147,10 @@ EDA SQL electoral bonddata
         Final Schema.svg
         README.md
         Schema.xlsx
-electoralbonddata_database.sql 
-Final_database_data.ipynb
-Queries.pdf
-queries.sql
+Electoral Bond Insights.docx
 README.md
+electoral_project.sql
+python_data_transform.ipynb
 
 ```
 The above shows the folder structure of the project 
