@@ -160,8 +160,8 @@ The above shows the folder structure of the project
 - RawData Folder has the data files
 - Final data Folder has the final files which we are using to create the database which is the output files we got from Final_database_data.ipynb
 - Schema folder has the files trying to explain the schema we designed. 
-- queries.sql is the sql file where some queries are written on the database. 
-- Queries.pdf is the same queries.sql file but in pdf format for easy reference. 
-- electoralbonddata_database.sql is the self contained database file.  
+- electoral_project.sql is the self contained database file.
+- ElectoralBond Insights has the insights gained through SQL queries
+- python_data_transform is the data transformation part done in python.
 
 ---
